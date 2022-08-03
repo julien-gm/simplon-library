@@ -2,5 +2,5 @@
 
 import main_file
 
-print('Welcome in my test file!')
+print('Welcome in test file!')
 main_file.say_hello()
